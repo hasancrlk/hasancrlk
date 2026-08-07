@@ -27,12 +27,12 @@ Through the Siber Vatan Program I'm getting intensive hands-on training in Linux
 
 ### 🚀 Deneyim / Experience
 
-**🛡️ Siber Vatan Programı** *(Kalkınma Ajansları)*
-TR: Siber güvenlik alanında derinleşmek için seçildiğim bu programda Linux sistem yönetimi, ağ güvenliği ve sızma testleri üzerine teknik eğitim ve uygulama süreçlerine devam ediyorum.
+**🛡️ Siber Vatan Programı** *(Kalkınma Ajansları)*<br/>
+TR: Siber güvenlik alanında derinleşmek için seçildiğim bu programda Linux sistem yönetimi, ağ güvenliği ve sızma testleri üzerine teknik eğitim ve uygulama süreçlerine devam ediyorum.<br/>
 EN: Selected for this cybersecurity-focused program — training intensively in Linux administration, network security, and penetration testing.
 
-**🛩️ MEKATEK Topluluğu — İHA Takımı** *(2+ Yıl)*
-TR: İnsansız hava araçları takımının yazılım ekibinde görev alarak, Python ve OpenCV kütüphaneleri ile görüntü işleme algoritmaları üzerine pratik çalışmalar yürütüyorum.
+**🛩️ MEKATEK Topluluğu — İHA Takımı** *(2+ Yıl)*<br/>
+TR: İnsansız hava araçları takımının yazılım ekibinde görev alarak, Python ve OpenCV kütüphaneleri ile görüntü işleme algoritmaları üzerine pratik çalışmalar yürütüyorum.<br/>
 EN: Member of the UAV team's software group, developing image-processing algorithms with Python and OpenCV.
 
 ---
@@ -68,30 +68,20 @@ EN: Member of the UAV team's software group, developing image-processing algorit
 
 ### 📌 Öne Çıkan Projeler / Featured Projects
 
-**🔹 Web Tasarım — Marmara Bölgesi**
-TR: Marmara bölgesini tanıtan bir web tasarım projesi.
-EN: A web design project showcasing the Marmara region.
+**🔹 Web Tasarım — Marmara Bölgesi**<br/>
+TR: Marmara bölgesini tanıtan bir web tasarım projesi.<br/>
+EN: A web design project showcasing the Marmara region.<br/>
 🔗 [Repo'yu görüntüle / View repo](https://github.com/hasancrlk/Web-tasar-m-marmara-b-lgesi)
 
-**🔹 Converter**
-TR: Beden dilini Türkçeye çeviren bir araç üzerinde çalışıyorum.
-EN: A tool I'm building to translate body language into Turkish.
+**🔹 Converter**<br/>
+TR: Beden dilini Türkçeye çeviren bir araç üzerinde çalışıyorum.<br/>
+EN: A tool I'm building to translate body language into Turkish.<br/>
 🔗 [Repo'yu görüntüle / View repo](https://github.com/hasancrlk/Converter)
 
-**🔹 Coffee POS**
-TR: React ile geliştirdiğim bir kafe/coffee shop satış noktası (POS) uygulaması.
-EN: A coffee shop point-of-sale (POS) application built with React.
+**🔹 Coffee POS**<br/>
+TR: React ile geliştirdiğim bir kafe/coffee shop satış noktası (POS) uygulaması.<br/>
+EN: A coffee shop point-of-sale (POS) application built with React.<br/>
 🔗 [Repo linki eklenecek / Repo link coming soon]
-
----
-
-### 📈 GitHub İstatistikleri / GitHub Stats
-
-<div align="center">
-
-![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasancrlk&show_icons=true&theme=default)
-
-</div>
 
 ---
 
