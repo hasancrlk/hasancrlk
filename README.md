@@ -64,26 +64,6 @@ EN: Member of the UAV team's software group, developing image-processing algorit
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge)
 
----
-
-### 📌 Öne Çıkan Projeler / Featured Projects
-
-**🔹 Web Tasarım — Marmara Bölgesi**<br/>
-TR: Marmara bölgesini tanıtan bir web tasarım projesi.<br/>
-EN: A web design project showcasing the Marmara region.<br/>
-🔗 [Repo'yu görüntüle / View repo](https://github.com/hasancrlk/Web-tasar-m-marmara-b-lgesi)
-
-**🔹 Converter**<br/>
-TR: Beden dilini Türkçeye çeviren bir araç üzerinde çalışıyorum.<br/>
-EN: A tool I'm building to translate body language into Turkish.<br/>
-🔗 [Repo'yu görüntüle / View repo](https://github.com/hasancrlk/Converter)
-
-**🔹 Coffee POS**<br/>
-TR: React ile geliştirdiğim bir kafe/coffee shop satış noktası (POS) uygulaması.<br/>
-EN: A coffee shop point-of-sale (POS) application built with React.<br/>
-🔗 [Repo linki eklenecek / Repo link coming soon]
-
----
 
 ### 📫 İletişim / Contact
 
