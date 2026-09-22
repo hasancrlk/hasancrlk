@@ -34,6 +34,10 @@ I am open to new challenges and professional opportunities where I can add value
 
 ### 🚀 Deneyim / Experience
 
+**🔍 EMT Cyber** *(Stajyer / Intern — 2 Ay)*<br/>
+TR: Siber güvenlik alanındaki teknik bilgilerimi pekiştirip geliştirdim. Adli bilişim (Digital Forensics) süreçlerini ise gerçek saha senaryolarında, adli inceleme ve vaka analizleriyle birebir deneyimleyerek öğrendim.<br/>
+EN: Consolidated and advanced my cybersecurity knowledge while gaining hands-on, real-world field experience in Digital Forensics, forensic investigations, and case analysis.
+
 **🛡️ Siber Vatan Programı** *(Kalkınma Ajansları)*<br/>
 TR: Siber güvenlik ve sistem yönetimi alanında derinleşmek üzere yer aldığım bu programda Linux sistem yönetimi, ağ güvenliği ve sızma testleri konularında yoğunlaştırılmış teknik eğitim ve pratik uygulama süreçlerini tamamladım.<br/>
 EN: Participated in this specialized cybersecurity initiative; completed intensive hands-on training covering Linux administration, network security, and penetration testing.
@@ -52,14 +56,12 @@ EN: Served 2+ years on the UAV software team, developing deep learning-based com
 ![Network Security](https://img.shields.io/badge/Network%20Security-2E7D32?style=for-the-badge&logo=shieldsdotio&logoColor=white)
 ![Pentesting](https://img.shields.io/badge/Pentesting-B71C1C?style=for-the-badge&logo=hackaday&logoColor=white)
 ![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-4B0082?style=for-the-badge)
-![Mobile Forensics](https://img.shields.io/badge/Mobile%20Forensics-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Mobile Forensics](https://img.shields.io/badge/Mobile%20Forensics-1E88E5?style=for-the-badge)
 ![RAM Analysis](https://img.shields.io/badge/RAM%20Analysis-000000?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-**Mobil ve Web Geliştirme / Mobile & Web**
+**Web Geliştirme / Web Development**
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
