@@ -9,6 +9,7 @@
 <br/><br/>
 📍 İstanbul, Türkiye
 
+[![Portfolyo](https://img.shields.io/badge/Portfolyo-176B5B?style=for-the-badge&logo=githubpages&logoColor=white)](https://hasancrlk.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasan-carlak-294798253/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasan.crlk@outlook.com)
 
@@ -23,12 +24,16 @@ Güvenlik odaklı yaklaşımımı yazılım geliştirme disipliniyle birleştire
 
 Güvenli yazılım geliştirme, sistem güvenliği ve adli bilişim alanlarında değer katabileceğim yeni zorluklara ve profesyonel fırsatlara açığım.
 
+📝 Projelerimin her biri için problemi, zor kısmı ve nasıl çözdüğümü anlattığım yazılar: **[hasancrlk.github.io](https://hasancrlk.github.io)**
+
 ### 🇬🇧 About Me
 I am a **final-year** Computer Engineering student at Düzce University. Focusing my studies primarily on **Cybersecurity** and **Digital Forensics**, I have advanced my technical expertise in network security, threat analysis, mobile device investigation, forensic imaging, RAM analysis, and data recovery.
 
 Bridging a security-first mindset with software development, I deliver end-to-end solutions across **Android & iOS mobile application development** and modern **web design & development**. Additionally, my background in developing deep learning-based computer vision projects for UAV systems has equipped me with a strong analytical approach to complex engineering challenges.
 
 I am open to new challenges and professional opportunities where I can add value in secure software development, system security, and digital forensics.
+
+📝 Write-ups for each of my projects (the problem, the hard part and how I solved it): **[hasancrlk.github.io/en](https://hasancrlk.github.io/en/)**
 
 ---
 
@@ -80,6 +85,7 @@ EN: Served 2+ years on the UAV software team, developing deep learning-based com
 
 <div align="center">
 
+[![Portfolyo](https://img.shields.io/badge/Portfolyo-176B5B?style=for-the-badge&logo=githubpages&logoColor=white)](https://hasancrlk.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasan-carlak-294798253/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasan.crlk@outlook.com)
 
